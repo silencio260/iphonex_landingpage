@@ -101,6 +101,11 @@ a{
     transition-duration: 0.1s;
 }
 
+.smaller-img{
+    height: 300px;
+    /* margin: 0px; */
+}
+
 #locations{
     /* background: green; */
     display: flex;
